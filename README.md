@@ -11,7 +11,9 @@
 
 - [GitHub Pages](https://kawamataryo.github.io/resume/)  
 - [PDF](https://github.com/kawamataryo/resume/releases)  
-- [File](https://github.com/kawamataryo/resume/blob/master/docs/README.md)  
+- [File](https://github.com/kawamataryo/resume/blob/master/docs/README.md) 
+
+
 ## Features
 
 ### 💅 Lint text
