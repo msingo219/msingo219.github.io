@@ -4,40 +4,40 @@
 
 |key|value|
 |---|---|
-|氏名|川俣 涼（Kawamata Ryo）|
-|生年月日|1989/04/25|
-|居住地|茨城県|
-|最終学歴|立命館大学経営学部|
+|氏名|宗形　真吾（Munakata Shingo）|
+|生年月日|1997/02/19|
+|居住地|埼玉県|
+|最終学歴|東北大学大学院医工学研究科|
 
 ---
 
 ## 各種アカウント
-<p>
+<!-- <p>
 <a href="https://github.com/kawamataryo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kawamataryo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/KawamataRyo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@KawamataRyo-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://qiita.com/ryo2132" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 <a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 <a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
-</p>
+</p> -->
 
 ---
 
 ## 保有スキル
 
-- JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
+<!-- - JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
 - レガシーコードからモダンなフロントエンドへのリファクタリング
 - フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測など）
 - UT を基本とした保守性と再利用性を意識したコーディング
 - Ruby on Rails, Django でのサーバーサイド開発
 - 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラムの進行補助
+- アジャイル、スクラムの進行補助 -->
 
 ---
 
 ## 技術スタック
 
 ### 言語
-<p>
+<!-- <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
@@ -45,10 +45,10 @@
   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-</p>
+</p> -->
 
 ### フレームワーク・その他
-<p>
+<!-- <p>
 <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
@@ -59,12 +59,12 @@
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-</p>
+</p> -->
 
 ---
 
 ## 職務経歴詳細
-
+<!-- 
 ### LAPRAS株式会社（2021/03〜現在）
 AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
 開発リソースが限られる中で、ユーザーの利便性を高める追加機能の設計から実装を主導。得意とするフロントエンド開発の経験を活かして、フロントエンドの改善活動をリード。また、モブプログラミングのライブ配信への出演やフルリモート環境で気軽に質問できる bot 開発などを通して、良い組織作りへの貢献も行っている。
@@ -127,7 +127,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
 - **プロジェクト詳細：**
     - Electron + Vue での入力支援システム、Excel VBA での報告書エラーチェッカーの開発
         - 年間で 4,000 時間の業務時間削減に貢献
-        - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department)
+        - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department) -->
 
 ---
 
@@ -137,7 +137,7 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
 
 #### 主要リポジトリ
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <td><b>Projects</b></td>
@@ -233,10 +233,10 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
       <td><img alt="Issues" src="https://img.shields.io/github/issues/kawamataryo/schema2type?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 #### その他
-- **type-challenges のメンバー（日本語ローカライズを担当）**
+<!-- - **type-challenges のメンバー（日本語ローカライズを担当）**
     - [type-challenges](https://github.com/type-challenges/type-challenges)
 - **OSS への PR 作成**
     - Raycast 拡張機能の開発
@@ -267,9 +267,9 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
     - [https://qiita.com/ryo2132](https://qiita.com/ryo2132)
 - **note**
     - 主に月報を記載。2020/04 現在 , 23 記事、 1,068 いいね
-    - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata)
+    - [https://note.com/ryo_kawamata](https://note.com/ryo_kawamata) -->
 
-### 勉強会での登壇
+<!-- ### 勉強会での登壇
 
 - **Frontend LT 回（2022/06/15）**
   - [suppress-ts-errors を使って TypeScriptの型チェックを漸進的に強化する](https://speakerdeck.com/kawamataryo/introducing-suppress-ts-errors)
@@ -296,26 +296,26 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発に従事。
 - **社内・社外勉強会の企画・運営**
     - もくテク powerd by Misoca
     - フロントエンド輪読回（Vue Composition API ドキュメント , JavaScript Promise の本輪読回、 Jest 公式ドキュメント、 TypeScript 公式ドキュメント）
-    - Go ではじめるインタプリタ輪読回
+    - Go ではじめるインタプリタ輪読回 -->
 
 ### その他
 
-- **Podcast**
+<!-- - **Podcast**
   - [しがないラジオ sp.91【ゲスト: KawamataRyo】楽しい元消防士がエンジニア転職を決意した理由、そして挫折と復活](https://shiganai.org/ep/sp91-KawamataRyo)
 - **YouTube**
-  - [消防士からエンジニアへ（ゲスト：川俣さん） #エンジニアと人生 Vol.28](https://www.youtube.com/watch?v=bP8hTmGixuI&t=1587s)
+  - [消防士からエンジニアへ（ゲスト：川俣さん） #エンジニアと人生 Vol.28](https://www.youtube.com/watch?v=bP8hTmGixuI&t=1587s) -->
 
 ---
 
 ## 意欲・興味
-- 少人数チームで小さく早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
+<!-- - 少人数チームで小さく早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
 - フロントエンドだけではなくバックエンド・インフラなど新しい分野・技術への興味関心が強く、学習しながらアウトプットをすることが得意です
 - ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
-- 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、時間を忘れてそれに没頭します
+- 開発に携わったサービスが、身近な人の生活をより良くしていく過程を肌で感じられる時、時間を忘れてそれに没頭します -->
 
 ---
 
 ## 希望条件
-- 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可）
+<!-- - 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可）
 - ユーザーファーストなプロダクトを作っていく過程が好きです。言われたとおりにただ作るのではなく、機能要件に対しても一緒に考えていけるチームだと良いです
-- 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです
+- 新しい挑戦（技術的なもの・制度的なもの）に積極的に取り組める環境が好きです -->
