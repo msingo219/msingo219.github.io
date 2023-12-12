@@ -9,7 +9,7 @@
 
 ## Data
 
-- [GitHub Pages](https://github.com/msingo219/msingo219.github.io)  
+- [GitHub Pages](https://github.com/msingo219/msingo219.github.io/resume/)  
 - [PDF](https://github.com/msingo219/msingo219.github.io/releases)  
 - [File](https://github.com/msingo219/msingo219.github.io/blob/master/docs/README.md) 
 
