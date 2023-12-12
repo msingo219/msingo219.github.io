@@ -51,7 +51,7 @@ $ git push origin --tags
 
 ### 📆 Remind update
 
-Automatically generate issues every three months with GitHub Actions Schedules triggers to prompt you to update your resume.
+Automatically generate issues every month with GitHub Actions Schedules triggers to prompt you to update your resume.
 
 To change the duration or stop the job, edit `.github/workflows/create-issue.yml`.  
 To change the issue contents, edit `.github/ISSUE_TEMPLATE.md`.

@@ -1,18 +1,17 @@
-# kawamataryoの職務経歴書
+# 職務経歴書
 
-![textlint](https://img.shields.io/github/workflow/status/kawamataryo/resume/lint%20text?label=textlint&logo=github&color=yellow)
+<!-- ![textlint](https://img.shields.io/github/workflow/status/kawamataryo/resume/lint%20text?label=textlint&logo=github&color=yellow)
 ![build pdf](https://img.shields.io/github/workflow/status/kawamataryo/resume/build-pdf?label=build%20pdf&logo=github)
 ![create issue](https://img.shields.io/github/workflow/status/kawamataryo/resume/create%20issue?label=create%20issue&logo=github&color=orange)
-![release date](https://img.shields.io/github/release-date/kawamataryo/resume?color=blue&logo=github)
+![release date](https://img.shields.io/github/release-date/kawamataryo/resume?color=blue&logo=github) -->
 
-[ [English](https://github.com/kawamataryo/resume) | 日本語 ]
+[ [English](https://github.com/msingo219/msingo219.github.io) | 日本語 ]
 
 ## Data
 
-
-- [GitHub Pages](https://kawamataryo.github.io/resume/)  
-- [PDF](https://github.com/kawamataryo/resume/releases)  
-- [File](https://github.com/kawamataryo/resume/blob/master/docs/README.md)  
+- [GitHub Pages](https://github.com/msingo219/msingo219.github.io/)  
+- [PDF](https://github.com/msingo219/msingo219.github.io/releases)  
+- [File](https://github.com/msingo219/msingo219.github.io/blob/master/docs/README.md) 
 
 ## Features
 
@@ -51,7 +50,7 @@ $ git push origin --tags
 
 ### 📆 Remind update
 
-GitHub Actionsのschedule triggerで3ヶ月に1回、職務経歴書の内容更新を促すissueが自動生成されます。
+GitHub Actionsのschedule triggerで1ヶ月に1回、職務経歴書の内容更新を促すissueが自動生成されます。
 
-期間の変更、Jobの停止は[.github/workflows/create-issue.yml](https://github.com/kawamataryo/resume/blob/master/.github/workflows/create-issue.yml) を編集してください。
+期間の変更、Jobの停止は[.github/workflows/create-issue.yml](https://github.com/msingo219/msingo219.github.io/blob/master/.github/workflows/create-issue.yml) を編集してください。
 
